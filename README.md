@@ -24,3 +24,11 @@ To achieve our goal, we follow these methodologies:
 2. **NLP Techniques:** We apply various NLP methodologies, including Bag of Words, text processing, and word embeddings, to analyze the language used in job postings.
 3. **Model Building:** We create a base model using supervised classification algorithms such as Naïve Bayes and Logistic Regression to predict whether a job posting is fake or genuine.
 4. **Fine-Tuning:** We refine our model using advanced techniques like feature extraction, data balancing, and ensemble methods.
+
+
+## References
+
+- **Dataset Collection Repository:** The dataset used for this project can be found at [Real or Fake Job Posting Prediction | Kaggle](https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction).
+
+- **Unemployment Rate in the World (2021):** For information on the global unemployment rate in 2021, refer to [Unemployment By Country 2021 (worldpopulationreview.com)](https://worldpopulationreview.com/country-rankings/unemployment-rate-by-country).
+
